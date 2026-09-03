@@ -59,9 +59,9 @@ Sigo haciendo las dos cosas a la vez: **programo y enseño a programar**. Por es
 |---|---|---|---|
 | **Programación** | DAM | 1º | [PRG](https://github.com/gines-lopez/PRG) |
 | **Entornos de Desarrollo** | DAM | 1º | [EDE](https://github.com/gines-lopez/EDE) |
+| **Proyecto Intermodular** | DAM | 1º | [PI2DAM](https://github.com/gines-lopez/PI1DAM) |
 | **Programación Multimedia y Dispositivos Móviles** | DAM | 2º | [PMDM](https://github.com/gines-lopez/PMDM) |
 | **Proyecto Intermodular** | DAM | 2º | [PI2DAM](https://github.com/gines-lopez/PI2DAM) |
-| **Digitalización aplicada al sistema productivo** | DAM | 2º | [DASP](https://github.com/gines-lopez/DASP) |
 | **Desarrollo Web en Entorno Servidor** | DAW | 2º | [DWES](https://github.com/gines-lopez/DWES) |
 | **Redes de área local** | SMR | 1º | [RAL](https://github.com/gines-lopez/RAL) |
 | **Aplicaciones Web** | SMR | 2º | [AW](https://github.com/gines-lopez/AW) |
